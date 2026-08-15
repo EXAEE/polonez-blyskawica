@@ -2,28 +2,29 @@
 
 **Szczegółowa, techniczna koncepcja konwersji FSO Polonez na napęd elektryczny**
 
-To jest kontynuacja i nowa nazwa projektu wcześniej rozwijanego jako `ex-polonez`.
+Kontynuacja projektu wcześniej rozwijanego jako `ex-polonez`.
 
-## Zasady projektu
+## Zasady
 
-- **Maintainability First** – modularność, łatwy serwis, kasety baterii, power pack
-- **Circular DIY + Low-Cost** – maksymalny druk 3D, spawanie DIY, upcycling, recycling, reuse
-- Metal tylko tam, gdzie są duże siły i bezpieczeństwo
-- Open documentation
+- Maintainability First
+- Circular DIY + Low-Cost
+- Maksymalny upcycling, druk 3D i spawanie DIY
+- Metal tylko tam, gdzie siła i bezpieczeństwo
 
-## Modele objęte
+## Przeniesione pliki (stan na teraz)
 
-- Polonez Caro Plus
-- Polonez Karetka / Cargo
-- Polonez Truck
-- Polonez Borewicz
+- `01-analiza-bazowa.md`
+- `02-koncepcja-napedu.md`
+- `09-maintainability-first.md`
+- `10-safety-checklist.md`
+- `11-homologacja-i-hv.md`
+- `12-circular-diy-lowcost.md`
+- `13-kaseta-i-powerpack-diy.md`
+- `16-zrodla-czesci-lowcost.md`
 
-## Status
+Pozostałe pliki z archiwum `ex-polonez` są w trakcie systematycznego kopiowania.
 
-Pełna zawartość merytoryczna jest w trakcie przenoszenia z poprzedniego repozytorium `ex-polonez`.  
-Stare repozytorium pozostaje jako archiwum z przekierowaniem tutaj.
-
-**Poprzednie repo:** https://github.com/EXAEE/ex-polonez
+**Archiwum:** https://github.com/EXAEE/ex-polonez
 
 ---
-*Nova / EXÆE – 2026*
+*Nova / EXÆE*
