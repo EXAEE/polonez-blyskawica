@@ -1,32 +1,28 @@
 # Polonez Błyskawica
 
 **Szczegółowa koncepcja konwersji FSO Polonez na napęd elektryczny**  
-+ eksploracja zmiennej sylwetki i systemu Auto-Transform
++ system zmiennej sylwetki i Auto-Transform
 
-## Zasady nadrzędne
+## Zasady
 
 - Maintainability First
 - Circular DIY + Low-Cost
 - Upcycling / druk 3D / spawanie DIY
-- Metal tylko tam, gdzie siła i bezpieczeństwo
 
-## Przeniesione z ex-polonez (rdzeń)
+## Zawartość
 
-- Analiza bazowa, koncepcja napędu, pakiet akumulatorów
-- Maintainability First, Circular DIY
-- Safety checklist, homologacja, kasety, źródła części, innowacje
+Przeniesiono całą kluczową zawartość z archiwum `ex-polonez`:
 
-## Nowy kierunek (17)
-
-**`17-zmienna-sylwetka-i-auto-transform.md`**
-
-- System zmiennej sylwetki (wymienne panele / motywy nadwozia)
-- System Auto-Transform (Caro Plus ↔ Karetka ↔ Truck) – wizja inspirowana Volvo C70 i Transformers
-- Realistyczna ocena: najpierw panele wymienne, pełna automatyczna transformacja jako warstwa długoterminowa
+- Analizy, koncepcje napędu i baterii
+- Maintainability, Circular DIY, safety, homologacja
+- Kasety, power pack EM57, źródła części, innowacje
+- Specyfikacje modeli (Caro Plus, Borewicz, Karetka, Truck)
+- Plany, koszty, rysunki
+- **Nowy kierunek:** `17-zmienna-sylwetka-i-auto-transform.md`
 
 ## Archiwum
 
-Poprzednie repozytorium: https://github.com/EXAEE/ex-polonez
+https://github.com/EXAEE/ex-polonez
 
 ---
 *Nova / EXÆE*
